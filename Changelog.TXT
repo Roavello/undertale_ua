@@ -1,0 +1,46 @@
+Undertale: UA translation Changelog (data.win)
+--------------------------------------------------------
+2022-08-15
+	- 9:28 - Added support for ukrainian lng in "gml_Script_scr_gettext" line 1 (var ua_text), line 12 (if (global.language == "ua"){})
+	
+	- 9:34 - Added script "textdata_ua"
+	
+	- 9:39 - Added third language in settingMenu "gml_Object_obj_settingsmenu_Draw_0"
+	
+	- 9:55 - Added lines "ds_map_add(global.text_data_ja, "settings_language_ua", "ウクライナ")" in "gml_Script_textdata_ja" line 16289 and "ds_map_add(global.text_data_en, "settings_language_ua", "UKRAINIAN")" in "gml_Script_textdata_en" line 15601
+	
+	- 10:08 - Added urkainian keyboard for namingscreen in "gml_Script_scr_namingscreen_setup"
+	
+	- 10:14 - Added support for ukrainian lng in "gml_Object_obj_time_Create_0" line 106 (if (!variable_global_exists("text_data_ua"))
+    script_execute(textdata_ua)) and changed line 109 (added '|| global.language != "ua"')
+	
+	- 10:54 - Added cyrillic symbols for all fonts (exept japanese's fonts)
+	
+	- 11:55 - Note: I don't know why but if in "gml_Script_scr_namingscreen" change somthing, game will go in endless loop or something(?) after pressing "Begin game"
+	
+	- 21:01 - Reworked sybols in fnt_plain
+	
+2022-08-16
+	
+	- 00:41 - Fixed keyboard bug (empty symbol in name)
+	
+	- 14:00 - Undertale now works with jsons
+	
+	- 15:00 - Optimised jsonloader by change "file_text" to buffer
+	
+	- 19:05 - Added if function that change "lv" to "рв" in scr_binfowrite if global.language == "ua"
+	
+	- 19:45 - Added if function that change "lv" to "рв" in "gml_Object_obj_floweydraw_Draw_0" if "global.language == "ua""
+	
+	
+	- 20:02 - Added if function that change "lv" to "рв", "hp" to "рж" and "g" to "з"in "gml_Object_obj_overworldcontroller_Draw_0" if "global.language == "ua""
+
+2022-08-17
+	
+	- 16:15 - Added if function that change "hp" to "рж" in "gml_Object_obj_floweydraw_Draw_0" if "global.language == "ua""
+	
+	- 17:00 - Translated "fight", "act", "item" and "spare" buttons.
+	
+2022-08-19
+	
+	- 10:45 - Translated all names and comments to them.
