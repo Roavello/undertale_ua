@@ -45,7 +45,12 @@ Undertale: UA translation Changelog (data.win)
 	
 	- 10:45 - Translated all names and comments to them.
 	
-2022-08-19
+2022-09-04
+
 	- 15:40 - Added some if (global.language == "ua") to gml_Object_obj_overworldcontroller_Draw_0. (line 98 and 366)
 	
 	- 23:15 - Reworked Font width in gml_Object_obj_base_writer_Draw_0 (line 422)
+
+2022-09-07
+
+	- 15:03 - Added if (global.language == "ua") in gml_Script_scr_setsprite
