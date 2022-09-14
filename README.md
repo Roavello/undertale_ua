@@ -4,23 +4,36 @@
 
 <details>
     <summary>Приклади перекладу:</summary>
-    <img width="75%" alt="Screenshots translation" src="https://cdn.discordapp.com/attachments/749252384420790283/1009521514166620280/Screenshot_22.png">
-    <img width="75%" alt="Screenshots translation" src="https://cdn.discordapp.com/attachments/712581569142849566/1016064438115246090/Screenshot_2022-09-04_21-09-33.png">
-    <img width="75%" alt="Screenshots translation" src="https://cdn.discordapp.com/attachments/712581569142849566/1016064438333362216/Screenshot_2022-09-04_21-11-59.png">
-    <img width="75%" alt="Screenshots translation" src="https://cdn.discordapp.com/attachments/749252384420790283/1009521008157401158/Screenshot_20.png">
-    <img width="75%" alt="Screenshots translation" src="https://cdn.discordapp.com/attachments/712581569142849566/1016064438559838391/Screenshot_2022-09-04_21-14-17.png">
-    <img width="75%" alt="Screenshots translation" src="https://cdn.discordapp.com/attachments/712581569142849566/1016064438790537246/Screenshot_2022-09-04_21-15-03.png">
-    <img width="75%" alt="Screenshots translation" src="https://cdn.discordapp.com/attachments/712581569142849566/1016064439037997106/Screenshot_2022-09-04_21-15-22.png">
+    <img width="75%" alt="Screenshots translation" src="images/examples/title.png">
+    <img width="75%" alt="Screenshots translation" src="images/examples/intro.png">
+    <img width="75%" alt="Screenshots translation" src="images/examples/naming.gif">
+    <img width="75%" alt="Screenshots translation" src="images/examples/die.gif">
+    <img width="75%" alt="Screenshots translation" src="images/examples/save.png">
+    <img width="75%" alt="Screenshots translation" src="images/examples/dummy.png">
+    <img width="75%" alt="Screenshots translation" src="images/examples/ran.gif">
 </details>
 
 ## Прогрес перекладу
 
 Переклад тільки розпочато, тому зараз готово лише 10%
+<br>
+Якщо ви знайдете якісь помили, обов'язково опишіть їх у вкладці <a href="https://github.com/Roavello/undertale_ua/issues">"Issues"</a>
 
-### Коли з'явиться можливість завантажити перклад?
+## Як встановити переклад?
 
-Лише тоді, коли буде завершен переклад Руїн, як мінімум.
+Все дуже просто.
+<br>
+* I. Завантажуємо останню версію мода.
 
+* II. Перейдіть до "Кореню" гри.
+<img width="50%" alt="Step2" src="images/tutoriel/step2.gif">
+
+* III. Виделіть папку "lang" та файл "data.win", і перенесіть їх до теки гри. <b>ОБОВ'ЯЗКОВО ПОГОДЖУЄМОСЯ ІЗ ЗАМІНОЮ!</b>
+<img width="50%" alt="Step3" src="images/tutoriel/step3.gif">
+
+* IV. Запускайте гру, та в налаштуваннях обираємо українську.
+
+* V. Гарної гри!
 
 # Attribution 4.0 International
 
