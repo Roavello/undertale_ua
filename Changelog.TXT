@@ -54,3 +54,17 @@ Undertale: UA translation Changelog (data.win)
 2022-09-07
 
 	- 15:03 - Added if (global.language == "ua") in gml_Script_scr_setsprite
+	
+2022-09-12
+
+	- 21:48 - Added snd_wonderfulidea_ua
+	
+2022-09-13
+
+	- 9:48 - Added draw_text_transformed(40, 130, scr_gettext("translate_title_by"), 1, 1, 0) in gml_Object_obj_undertaletitle_Draw_0	
+
+2022-09-14
+
+	- 1:34 - Added "item_menub_header1" in gml_Script_SCR_TEXT (line 84)
+	
+	- 1:39 - Note: Use japanese menub system
