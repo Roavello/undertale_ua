@@ -1,5 +1,5 @@
 # undertale_ua
-Переклад Undertale на українську.
+Переклад Undertale українською.
 
 
 <details>
