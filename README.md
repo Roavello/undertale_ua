@@ -4,13 +4,13 @@
 
 <details>
     <summary>Приклади перекладу:</summary>
-    <img width="75%" alt="Screenshots translation" src="images/examples/title.png">
-    <img width="75%" alt="Screenshots translation" src="images/examples/intro.png">
-    <img width="75%" alt="Screenshots translation" src="images/examples/naming.gif">
-    <img width="75%" alt="Screenshots translation" src="images/examples/die.gif">
-    <img width="75%" alt="Screenshots translation" src="images/examples/save.png">
-    <img width="75%" alt="Screenshots translation" src="images/examples/dummy.png">
-    <img width="75%" alt="Screenshots translation" src="images/examples/ran.gif">
+    <img width="75%" alt="Screenshots translation" src="assets/images/examples/title.png">
+    <img width="75%" alt="Screenshots translation" src="assets/images/examples/intro.png">
+    <img width="75%" alt="Screenshots translation" src="assets/images/examples/naming.gif">
+    <img width="75%" alt="Screenshots translation" src="assets/images/examples/die.gif">
+    <img width="75%" alt="Screenshots translation" src="assets/images/examples/save.png">
+    <img width="75%" alt="Screenshots translation" src="assets/images/examples/dummy.png">
+    <img width="75%" alt="Screenshots translation" src="assets/images/examples/ran.gif">
 </details>
 
 ## Прогрес перекладу
@@ -26,10 +26,10 @@
 * I. Завантажуємо останню версію мода.
 
 * II. Перейдіть до "Кореню" гри.
-<img width="50%" alt="Step2" src="images/tutoriel/step2.gif">
+<img width="50%" alt="Step2" src="assets/images/tutoriel/step2.gif">
 
 * III. Виделіть папку "lang" та файл "data.win", і перенесіть їх до теки гри. <b>ОБОВ'ЯЗКОВО ПОГОДЖУЄМОСЯ ІЗ ЗАМІНОЮ!</b>
-<img width="50%" alt="Step3" src="images/tutoriel/step3.gif">
+<img width="50%" alt="Step3" src="assets/images/tutoriel/step3.gif">
 
 * IV. Запускайте гру, та в налаштуваннях обираємо українську.
 
