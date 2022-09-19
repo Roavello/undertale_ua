@@ -91,3 +91,7 @@
 				"gml_Object_obj_battlecontroller_KeyPress_Step 0" Line 150
 				
 				"gml_Script_scr_battlemenu_cursor_y" Line 3
+	
+	2022-09-19
+	
+- 12:48 - Moved "itembox_close" a little bit to the left in gml_Object_obj_itemswapper_Draw_0. Line 54
