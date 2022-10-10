@@ -92,6 +92,19 @@
 				
 				"gml_Script_scr_battlemenu_cursor_y" Line 3
 	
-	2022-09-19
+2022-09-19
 	
 - 12:48 - Moved "itembox_close" a little bit to the left in gml_Object_obj_itemswapper_Draw_0. Line 54
+
+2022-10-02
+	
+- 13:00 - Added borders.
+	
+	
+				Used "BorderEnabler" by krzys_h
+	
+				"gml_Object_obj_time_Create_0" Line 104
+		
+				"gml_Object_obj_time_Draw_76" Line 9
+				
+				"gml_Object_obj_time_Draw_77" Line 24

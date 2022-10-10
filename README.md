@@ -9,7 +9,7 @@
     <img width="75%" alt="Screenshots translation" src="assets/images/examples/naming.gif">
     <img width="75%" alt="Screenshots translation" src="assets/images/examples/die.gif">
     <img width="75%" alt="Screenshots translation" src="assets/images/examples/save.png">
-    <img width="75%" alt="Screenshots translation" src="assets/images/examples/dummy.png">
+    <img width="75%" alt="Screenshots translation" src="assets/images/examples/dummy.gif">
     <img width="75%" alt="Screenshots translation" src="assets/images/examples/ran.gif">
 </details>
 
