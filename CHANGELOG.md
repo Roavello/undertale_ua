@@ -108,3 +108,12 @@
 				"gml_Object_obj_time_Draw_76" Line 9
 				
 				"gml_Object_obj_time_Draw_77" Line 24
+				
+2022-10-12
+	
+- 10:53 - Added "\@@" thing for additional characters in the dialog box.
+	
+	
+				"gml_Object_obj_base_writer_Draw_0" Line 7, 8, 59, 258
+				
+				"gml_Object_obj_base_writer_Alarm_0" Line 56

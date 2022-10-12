@@ -17,7 +17,7 @@
 
 Переклад тільки розпочато, тому зараз готово лише 10%
 <br>
-Якщо ви знайдете якісь помили, обов'язково опишіть їх у вкладці <a href="https://github.com/Roavello/undertale_ua/issues">"Issues"</a>
+Якщо ви знайдете якісь помилки, обов'язково опишіть їх у вкладці <a href="https://github.com/Roavello/undertale_ua/issues">"Issues"</a>
 
 ## Як встановити переклад?
 
