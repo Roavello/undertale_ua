@@ -111,7 +111,7 @@
 				
 2022-10-12
 	
-- 10:53 - Added "\@@" thing for additional characters in the dialog box.
+- 10:53 - Added "\@@" thing for additional characters in the dialog box. (Thanks yanchukcha for helping)
 	
 	
 				"gml_Object_obj_base_writer_Draw_0" Line 7, 8, 59, 258
