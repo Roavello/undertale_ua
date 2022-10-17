@@ -117,3 +117,11 @@
 				"gml_Object_obj_base_writer_Draw_0" Line 7, 8, 59, 258
 				
 				"gml_Object_obj_base_writer_Alarm_0" Line 56
+				
+2022-10-16
+	
+- 01:31 - Added "spr_pressz_press_ua"
+	
+	
+				"gml_Object_obj_pressZ_Draw_0" Line 1
+				
