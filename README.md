@@ -12,13 +12,13 @@
     <img width="50%" alt="Збереження" src="assets/images/examples/save.png">
     <img width="50%" alt="Манекен. Стоїть." src="assets/images/examples/dummy.gif">
     <img width="50%" alt="ЛІНИВА СРАКА!!!" src="assets/images/examples/lazyass.gif">
-    <img width="50%" alt="Важлива річ" src="assets/images/examples/importantthing.gif">
+    <img width="50%" alt="Важлива річ" src="assets/images/examples/importantthing.png">
     <img width="50%" alt="Затишно" src="assets/images/examples/snowdin.gif">
 </details>
 
 <h1>Особливості перекладу</h1>
 
-<img alt="assets/images/readme/ConsoleExs.png">
+<img alt="Консольні ексклюзиви.(Але без Xbox One.)" src="assets/images/readme/ConsoleExs.png">
 Завжди хотіли задоґнатити купу, віртуальних, грошей богоподібному Тобі Фоксу, або відгамселити Скажену мяу мяу всередені височенній раковині Папіруса, але у вас є лише комп’ютер? Нині ваш шанс <del>стати ВЕЛИКИМ ЦАБЕ</del> здійснити свою мрію, ще й українською!
 
 <h2></h2>
