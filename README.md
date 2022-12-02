@@ -1,40 +1,140 @@
-# undertale_ua
-Переклад Undertale українською.
+<h1>Новий українізатор для гри Undertale!</h1>
+Ця модифікація, як не дивно, додасть солов'їну мову та багато інших цікавих речей, які вам точно сподобаються.
+<br>
 
-
+<br>
 <details>
     <summary>Приклади перекладу:</summary>
-    <img width="75%" alt="Screenshots translation" src="assets/images/examples/title.png">
-    <img width="75%" alt="Screenshots translation" src="assets/images/examples/intro.png">
-    <img width="75%" alt="Screenshots translation" src="assets/images/examples/naming.gif">
-    <img width="75%" alt="Screenshots translation" src="assets/images/examples/die.gif">
-    <img width="75%" alt="Screenshots translation" src="assets/images/examples/save.png">
-    <img width="75%" alt="Screenshots translation" src="assets/images/examples/dummy.gif">
-    <img width="75%" alt="Screenshots translation" src="assets/images/examples/ran.gif">
+    <img width="50%" alt="Логотип" src="assets/images/examples/title.png">
+    <img width="50%" alt="Заставка" src="assets/images/examples/intro.png">
+    <img width="50%" alt="Набір ім'я" src="assets/images/examples/naming.gif">
+    <img width="50%" alt="Який грозний" src="assets/images/examples/die.gif">
+    <img width="50%" alt="Збереження" src="assets/images/examples/save.png">
+    <img width="50%" alt="Манекен. Стоїть." src="assets/images/examples/dummy.gif">
+    <img width="50%" alt="ЛІНИВА СРАКА!!!" src="assets/images/examples/lazyass.gif">
+    <img width="50%" alt="Важлива річ" src="assets/images/examples/importantthing.gif">
+    <img width="50%" alt="Затишно" src="assets/images/examples/snowdin.gif">
 </details>
 
-## Прогрес перекладу
+<h1>Особливості перекладу</h1>
 
-Переклад тільки розпочато, тому зараз готово лише 10%
+<img alt="assets/images/readme/ConsoleExs.png">
+Завжди хотіли задоґнатити купу, віртуальних, грошей богоподібному Тобі Фоксу, або відгамселити Скажену мяу мяу всередені височенній раковині Папіруса, але у вас є лише комп’ютер? Нині ваш шанс <del>стати ВЕЛИКИМ ЦАБЕ</del> здійснити свою мрію, ще й українською!
+
+<h2></h2>
+
+<img alt="Зустрічайте, рамки!!!" src="assets/images/readme/BordersIconBorders.png" align="left" height=200px width=210px>
+<h3>Рамки</h3>
+
+Завдяки цьому ігровий досвід на екрані роздільністю 16:9 буде набагато приємнішим!
 <br>
-Якщо ви знайдете якісь помилки, обов'язково опишіть їх у вкладці <a href="https://github.com/Roavello/undertale_ua/issues">"Issues"</a>
-
-## Як встановити переклад?
-
-Все дуже просто.
 <br>
-* I. Завантажуємо останню версію мода.
+Оберіть рамки, які вам більш до вподоби:
+<br>
+• Динамічні — такі рамки підлаштовуються під локацію, у якій ви перебуваєте.
+<br>
+• Статичні — звичайні рамки з гарним візерунком, які будь супроводжувати вас протягом всього проходження.
+<br>
+• Мінімалістичні — як зрозуміло із назви, нічого зайвого.
+<details>
+    <summary>А чого я вам зуби заговорюю? Краще один раз побачичи, ніж сто разів почути!</summary>
+    <img alt="Демонстрація рамок" src="assets/images/readme/InGameBorders.gif">
+</details>
 
-* II. Перейдіть до "Кореню" гри.
-<img width="50%" alt="Step2" src="assets/images/tutoriel/step2.gif">
+<h2 CLEAR="left"/></h2>
 
-* III. Виделіть папку "lang" та файл "data.win", і перенесіть їх до теки гри. <b>ОБОВ'ЯЗКОВО ПОГОДЖУЄМОСЯ ІЗ ЗАМІНОЮ!</b>
-<img width="50%" alt="Step3" src="assets/images/tutoriel/step3.gif">
+<img alt="Гав" src="assets/images/readme/BordersIconDogShrine.png" align="left" height=200px width=210px>
 
-* IV. Запускайте гру, та в налаштуваннях обираємо українську.
+<h3>Собача святиня</h3>
+Скоро.
 
-* V. Гарної гри!
+<br CLEAR="left"/> 
+<h2></h2>
 
-# Attribution 4.0 International
+<img alt="Мяв" src="assets/images/readme/BordersIconMEWMEW.png" align="left" height=200px width=210px>
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+<h3>Скажена мяу мяу</h3>
+Скоро.
+
+<br CLEAR="left"/> 
+<h2></h2>
+
+<h2><img alt="Всіляке" src="assets/images/readme/OtherFeatures.gif"></h2>
+<br>
+<img alt="Очманіти, так?" src="assets/images/readme/BordersIconBodySwap.gif" align="left" height=200px width=210px>
+
+<h3>Body Swap</h3>
+Хитра річ, натхненна грою Shovel Knight на Ps Vita, яка дозволить вам краще асоціювати себе з головним героєм. Хочете грати за дівчинку, або хлопчика? Грайте на здоров’я! Хочете залишити головного героя без статі? Будь ласка!
+<br>
+<br>
+<br>
+<br>
+<details>
+    <summary>Занурьтесь у світ Undertale'у по максимуму!</summary>
+    <img alt="Демонстрація Body Swap'у" src="assets/images/readme/BodySwapDemo.png">
+    <img alt="Демонстрація Body Swap'у" src="assets/images/readme/BodySwapDemo1.png">
+    <img alt="Демонстрація Body Swap'у" src="assets/images/readme/BodySwapDemo2.png">
+</details>
+
+<br CLEAR="left"/> 
+<h2></h2>
+
+<img alt="Я серйозно." src="assets/images/readme/BordersIconGoogle.png" align="left" height=200px width=210px>
+
+<h3>Ніякого Google Translate</h3>
+Їй-богу, у тупу використовувати гугл перекладач якось взагалі не папайрусно.
+<br>
+Тому оревуар, дурнуватий перекладач, ми тебе ніколи більше не згадаємо! 
+<br CLEAR="left"/>
+
+<h2></h2>
+
+<h1>Куточок запитань(ЧаПи)</h1>
+
+<img alt="Куточок запитань(ЧаПи)" src="assets/images/faq/CHaPy.gif">
+
+<h3>П: Скільки вже встигли перекласти?</h3>
+
+В: <s>Переклад тільки розпочато, тому зараз готово лише 10%</s>
+<br>
+    Перекладено вже десь 25% гри.
+<br>
+    Якщо знайдете якісь помилки, обов'язково опишіть їх у вкладці <a href="https://github.com/Roavello/undertale_ua/issues">"Issues"</a>
+
+<h3>П: Скільки людей працює над перекладом?</h3>
+В: Лише одна людина, я.
+
+<h3>П: Як встановити переклад?</h3>
+
+В: Все дуже просто.
+<br>
+* I. Завантажуємо останню версію мода та розархівовуємо в зручне для вас місце.
+
+* II. Переходимо до «Кореню» гри.
+<img alt="Крок 2" src="assets/images/faq/step2.gif">
+
+* III. Запускаємо DeltaPatcher з архіву.
+
+* IIIa. У поле «Original file» переносимо оригінальний «data.win» файл.
+
+* IIIb. У поле «XDelta patch» переносимо «UndertaleUa.xdelta» файл. (Нотатка: якщо ви купили гру не в Steam, а в Магазині Windows, або в GOG, то спочатку застосуйте патч «v1.08_Windows_Collectors_Edition_to_Steam.xdelta», і після поверніться до початку кроку IIIb.)
+
+* IIIc. Тиснемо «Apply patch» та чекаємо завершення
+<img alt="Крок 3" src="assets/images/faq/DeltaPatch.gif">
+
+* IV. Виделіть папку «lang», і перенесіть її до теки гри.
+<img alt="Крок 4" src="assets/images/faq/step4.gif">
+
+* V. Запускайте гру, та в налаштуваннях обираємо українську.
+
+* VI. Гарної гри!
+
+<h2><img alt="Га? Вже?" src="assets/images/faq/ChaPyEND.png"></h2>
+
+<h1>Attribution 4.0 International</h1>
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+<img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
+</a>
+<br />
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
