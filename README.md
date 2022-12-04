@@ -23,7 +23,7 @@
 
 <h2></h2>
 
-<img alt="Зустрічайте, рамки!!!" title="Зустрічайте, рамки!!!" src="assets/images/readme/BordersIconBorders.gif" align="left" height=200px width=210px>
+<img alt="Зустрічайте, рамки!!!" title="Зустрічайте, рамки!!!" src="assets/images/readme/BordersIconBorders.png" align="left" height=200px width=210px>
 <h3>Рамки</h3>
 
 Завдяки цьому ігровий досвід на екрані роздільністю 16:9 буде набагато приємнішим!
@@ -43,7 +43,7 @@
 
 <h2 CLEAR="left"></h2>
 
-<img alt="Гав" title="Гав" src="assets/images/readme/BordersIconDogShrine.png" align="left" height=200px width=210px>
+<img alt="Гав" title="Гав" src="assets/images/readme/BordersIconDogShrine.gif" align="left" height=200px width=210px>
 
 <h3>Собача святиня</h3>
 Найсвятіше, найкрасивіше та найкорисніше місце у всій грі.
