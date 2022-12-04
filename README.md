@@ -23,7 +23,7 @@
 
 <h2></h2>
 
-<img alt="Зустрічайте, рамки!!!" title="Зустрічайте, рамки!!!" src="assets/images/readme/BordersIconBorders.png" align="left" height=200px width=210px>
+<img alt="Зустрічайте, рамки!!!" title="Зустрічайте, рамки!!!" src="assets/images/readme/BordersIconBorders.gif" align="left" height=200px width=210px>
 <h3>Рамки</h3>
 
 Завдяки цьому ігровий досвід на екрані роздільністю 16:9 буде набагато приємнішим!
