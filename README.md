@@ -128,7 +128,7 @@
 * IIIc. Тиснемо «Apply patch» та чекаємо завершення
 <img alt="Крок 3" src="assets/images/faq/DeltaPatch.gif">
 
-* IV. Виделіть папку «lang», і перенесіть її до теки гри.
+* IV. Виделіть папку «lang», файли «mus_mewmew.ogg», «mus_sfx_dogseal.ogg» та перенесіть їх до теки гри.
 <img alt="Крок 4" src="assets/images/faq/step4.gif">
 
 * V. Запускайте гру, та в налаштуваннях обираємо українську.
