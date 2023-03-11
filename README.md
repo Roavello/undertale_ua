@@ -113,13 +113,14 @@
 <br>
     =====================
 <br>
-    Роботи попререду ще багато.
+    Роботи попереду ще багато.
 <br>
     Якщо знайдете якісь помилки, обов'язково опишіть їх у вкладці <a href="https://github.com/Roavello/undertale_ua/issues">"Issues"</a>
 
 <h3>П: Скільки людей працює над перекладом?</h3>
 В: <a href="https://github.com/Roavello">Roavello</a> - Головний перекладач, бариста.<br>
-    <a href="https://github.com/marklangerhacker">Mark L.</a> - Редактор, та допомога з портом перекладу на MacOS.<br>
+    <a href="https://github.com/marklangerhacker">Mark L.</a> - Редактор та допомога з портом перекладу на MacOS.<br>
+    Перекладацька команда «Pereclaw» - видавець.<br>
 
 <h3>П: Як встановити переклад?</h3>
 
