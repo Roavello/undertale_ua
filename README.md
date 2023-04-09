@@ -10,7 +10,7 @@
     <img width="50%" alt="Набір ім'я" title="Набір ім'я" src="assets/images/examples/naming.gif">
     <img width="50%" alt="Який грозний" title="Який грозний" src="assets/images/examples/die.gif">
     <img width="50%" alt="Збереження" title="Збереження" src="assets/images/examples/save.png">
-    <img width="50%" alt="Манекен. Стоїть." title="Манекен. Стоїть." src="assets/images/examples/dummy.gif">
+    <img width="50%" alt="Манекен. Стоїть." title="Манекен. Стоїть." src="assets/images/examples/dummy.png">
     <img width="50%" alt="ЛІНИВА СРАКА!!!" title="ЛІНИВА СРАКА!!!" src="assets/images/examples/lazyass.gif">
     <img width="50%" alt="Важлива річ" title="Важлива річ" src="assets/images/examples/importantthing.png">
     <img width="50%" alt="Затишно" title="Затишно" src="assets/images/examples/snowdin.gif">
