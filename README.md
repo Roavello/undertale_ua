@@ -84,6 +84,51 @@
 <br CLEAR="left">
 
 
+<h1>Новини та оголошення</h1>
+<h4>05-18-2022</h4>
+З останнього коміту пройшов цілий місяць, вау. Проєкт поме... НІ!
+За цей час багато чого сталося, і я зараз все опишу.
+
+- Я став членом команди Pereclaw, тому тепер над перекладом працює вже не один я і мій друг,
+  а це значить, що переклад буде набагато якіснішим.
+  Мене це радує.
+
+- Влаштовано перепис вже перекладених локацій для корегування перекладу і виправлення всіляких помилок.
+
+- Прибрано можливість зміни статі для гравця, бо поки що вдається гарно уникати згадування їхньої статі.
+  Але все може бути, тому раптом що, я це поверну. 
+
+- Мені чудом вдалося уникнути перегорання. Не дивно, бо обрав таку велику гру, як перший перекладацький проєкт.
+  Рішення не найкраще, знаю, але маємо те, що маємо. Я, разом з командою талановитих перекладачів, доведу роботу до кінця.
+  
+На цьому поки все.<br><br>Слава Україні.
+<h4><p align="right">— Roavello<h4>
+<h1>Автори</h1>
+<h2>Перекладацька команда «Pereclaw»</h2>
+    <p>
+        <a href="https://discord.gg/uBMDfeMDJ3"><img alt="Discord" src="https://img.shields.io/discord/975491034823917658?label=Discord&logo=discord&style=social"></a>
+        <a href="https://www.youtube.com/@pereclaw"><img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCNG4f8zRUFxw1JvtQV8oh_w?label=Pereclaw&style=social"></a>
+        <a href="https://t.me/pereclawteam"><img alt="Telegram" src="https://img.shields.io/static/v1?link=https://t.me/pereclawteam&label=Pereclaw&style=social&logo=telegram&message=локалізація ігор"></a>
+<h3>Перекладачі</h3>
+<ol>
+    <li type="disc"><a href="https://github.com/Roavello">Roavello</a><br>
+    <li type="disc"><a href="https://github.com/DanielleTlumach">DanielleTlumach</a><br>
+    <li type="disc"><a href="https://github.com/yanchukcha">yanchukcha</a><br>
+    <li type="disc"><a href="https://discord.com/users/1004070402840084590">ユーリイ</a><br>
+    <li type="disc"><a href="https://discord.com/users/246731296435470337">Sandwick</a><br>
+</ol>
+<h3>Редактори</h3>
+<ol>
+    <li type="disc"><a href="https://discord.com/users/1003288266587521094">Chlorine</a><br>
+    <li type="disc"><a href="https://github.com/marklangerhacker">Mark L.</a><br>
+    <li type="disc"><a href="https://discord.com/users/1004070402840084590">ユーリイ</a><br>
+    <li type="disc"><a href="https://github.com/DanielleTlumach">DanielleTlumach</a><br>
+    <li type="disc"><a href="https://github.com/yanchukcha">yanchukcha</a><br>
+</ol>
+<h3>Організатор</h3>
+<ol>
+    <li type="disc"><a href="https://github.com/Roavello">Roavello</a><br>
+</ol>
 <h1>Куточок запитань(ЧаПи)</h1>
 
 <img alt="Куточок запитань(ЧаПи)" title="Куточок запитань(ЧаПи)" src="assets/images/faq/CHaPy.gif">
@@ -113,11 +158,6 @@
 <h3>П: Коли вийде переклад?</h3>
 
 В: Коли буде готовий.
-
-<h3>П: Скільки людей працює над перекладом?</h3>
-В: <a href="https://github.com/Roavello">Roavello</a> - Головний перекладач, бариста.<br>
-    <a href="https://github.com/marklangerhacker">Mark L.</a> - Редактор та допомога з портом перекладу на MacOS.<br>
-    Перекладацька команда «Pereclaw» - видавець.<br>
 
 <h2><img alt="Га? Вже?" title="Га? Вже?" src="assets/images/faq/ChaPyEND.png"></h2>
 
