@@ -14,12 +14,17 @@
     <img width="75%" alt="ЛІНИВА СРАКА!!!" title="ЛІНИВА СРАКА!!!" src="assets/images/examples/lazyass.gif">
     <img width="75%" alt="Важлива річ" title="Важлива річ" src="assets/images/examples/importantthing.png">
     <img width="75%" alt="Затишно" title="Затишно" src="assets/images/examples/snowdin.gif">
+	
+	<img width="75%" alt="Я теж приятелю." title="Я теж приятелю." src="assets/images/examples/bench.png">
+    <img width="75%" alt="Сподіваюся, мені ніхто не завадить його забрати." title="Сподіваюся, мені ніхто не завадить його забрати." src="assets/images/examples/legend.png">
+    <img width="75%" alt="Вітаємо у Жаркраї!" title="Вітаємо у Жаркраї!" src="assets/images/examples/welcome.png">
+    <img width="75%" alt="Звісно хочу." title="Звісно хочу." src="assets/images/examples/hotanimals.png">
 </details>
 
 <h1>Особливості перекладу</h1>
 
 <img alt="Консольні ексклюзиви. (Але без Xbox One.)" title="Консольні ексклюзиви. (Але без Xbox One.)" src="assets/images/readme/ConsoleExs.png">
-Завжди хотіли задоґнатити купу віртуальних грошей богоподібному Тобі Фоксу, або відгамселити скажену Нявкалку всередині височенної раковини Папіруса, але у вас є лише комп'ютер? Нині ваш шанс здійснити свою мрію, ще й українською!
+Завжди хотіли пожертвувати купу віртуальних грошей богоподібному Тобі Фоксу, або відгамселити скажену Нявкалку всередині височенної раковини Папайруса, але у вас є лише комп'ютер? Нині ваш шанс здійснити свою мрію, ще й українською!
 
 <h2></h2>
 
@@ -66,14 +71,8 @@
 <h2></h2>
 
 <h2><img alt="Всіляке" title="Всіляке" src="assets/images/readme/OtherFeatures.gif"></h2>
-<br>
-<img alt="Очманіти, так?" title="Очманіти, так?" src="assets/images/readme/BordersIconBodySwap.gif" align="left" height=200px width=210px>
-
-<h3>Body Swap</h3>
-Хитра річ, натхненна грою Shovel Knight на Ps Vita, яка дозволить вам краще асоціювати себе з головним героєм. Хочете грати за дівчинку або хлопчика? Грайте на здоров'я! Хочете залишити головного героя без статі? Будь ласка!
 
 <br CLEAR="left"> 
-<h2></h2>
 
 <img alt="Я серйозно." title="Я серйозно." src="assets/images/readme/BordersIconGoogle.png" align="left" height=200px width=210px>
 
@@ -85,23 +84,19 @@
 
 
 <h1>Новини та оголошення</h1>
-<h4>05-18-2023</h4>
-З останнього коміту пройшов цілий місяць, вау. Проєкт поме... НІ!
-За цей час багато чого сталося, і я зараз все опишу.
+<h4>07-09-2023</h4>
+Що ж... Тримати активним сторінку, схоже, не в моєму стилі xd
+<br>
+Хай там як, настав ЧАС НОВИН.
 
-- Я став членом команди Pereclaw, тому тепер над перекладом працює вже не один я і мій друг,
-  а це значить, що переклад буде набагато якіснішим.
-  Мене це радує.
+- До команди долучилося кілька нових людей, тому довелося трохи налагоджувати внутрішній лад нашої роботи для подальшого перекладу.
 
-- Влаштовано перепис вже перекладених локацій для корегування перекладу і виправлення всіляких помилок.
+- Наразі триває переклад одночасно двох локацій гри: Водоспаддя і Жаркрай.(Ще трохи переклали ворогів ядра, але то поки чернові варіанти.)
 
-- Прибрано можливість зміни статі для гравця, бо поки що вдається гарно уникати згадування їхньої статі.
-  Але все може бути, тому раптом що, я це поверну. 
+- Нарешті оновив шрифт Папайруса, бо минулий був звичайним placeholder'ом і разом з Yanchukcha оновив шрифт для тексту в хмарках.
 
-- Мені чудом вдалося уникнути перегорання. Не дивно, бо обрав таку велику гру, як перший перекладацький проєкт.
-  Рішення не найкраще, знаю, але маємо те, що маємо. Я, разом з командою талановитих перекладачів, доведу роботу до кінця.
   
-На цьому поки все.<br><br>Слава Україні.
+Новин, звісно, як кіт наплакав, але маємо що маємо.<br><br>Слава Україні.
 <h4><p align="right">— Roavello<h4>
 <h1>Автори</h1>
 <h2>Перекладацька команда «Pereclaw»</h2>
@@ -114,16 +109,20 @@
     <li type="disc"><a href="https://github.com/Roavello">Roavello</a><br>
     <li type="disc"><a href="https://github.com/DanielleTlumach">DanielleTlumach</a><br>
     <li type="disc"><a href="https://github.com/yanchukcha">yanchukcha</a><br>
-    <li type="disc"><a href="https://discord.com/users/1004070402840084590">ユーリイ</a><br>
+    <li type="disc"><a href="https://discord.com/users/1004070402840084590">spaceuk</a><br>
     <li type="disc"><a href="https://discord.com/users/246731296435470337">Sandwick</a><br>
+	<li type="disc"><a href="https://discord.com/users/509078768288137236">Chiromy</a><br>
+	<li type="disc"><a href="https://discord.com/users/493110908424421377">BoneKiller</a><br>
+	<li type="disc"><a href="https://discord.com/users/575018649329467412">Rozner</a><br>
 </ol>
 <h3>Редактори</h3>
 <ol>
     <li type="disc"><a href="https://discord.com/users/1003288266587521094">Chlorine</a><br>
     <li type="disc"><a href="https://github.com/marklangerhacker">Mark L.</a><br>
-    <li type="disc"><a href="https://discord.com/users/1004070402840084590">ユーリイ</a><br>
+    <li type="disc"><a href="https://discord.com/users/1004070402840084590">spaceuk</a><br>
     <li type="disc"><a href="https://github.com/DanielleTlumach">DanielleTlumach</a><br>
     <li type="disc"><a href="https://github.com/yanchukcha">yanchukcha</a><br>
+	<li type="disc"><a href="https://discord.com/users/575018649329467412">Rozner</a><br>
 </ol>
 <h3>Організатор</h3>
 <ol>
@@ -143,9 +142,9 @@
 
 <h3>П: Скільки вже встигли перекласти?</h3>
 
-В: _Ігровий текст_ - 25%
+В: _Ігровий текст_ - 49%
 <br>
-    _Озвучення_ - 30%
+    _Озвучення_ - Озвучено одну з двох реплік.
 <br>
     _Полірування_ - 0%
 <br>
