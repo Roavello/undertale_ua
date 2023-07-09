@@ -16,7 +16,7 @@
     <img width="75%" alt="Затишно" title="Затишно" src="assets/images/examples/snowdin.gif">	
 	<img width="75%" alt="Я теж приятелю." title="Я теж приятелю." src="assets/images/examples/bench.png">
     <img width="75%" alt="Сподіваюся, мені ніхто не завадить його забрати." title="Сподіваюся, мені ніхто не завадить його забрати." src="assets/images/examples/legend.png">
-    <img width="75%" alt="Вітаємо у Жаркраї!" title="Вітаємо у Жаркраї!" src="assets/images/examples/welcome.png">
+    <img width="75%" alt="Вітаємо у Жаркраї!" title="Вітаємо у Жаркраї!" src="assets/images/examples/welcome.gif">
     <img width="75%" alt="Звісно хочу." title="Звісно хочу." src="assets/images/examples/hotanimals.png">
 </details>
 
