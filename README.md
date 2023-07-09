@@ -13,8 +13,7 @@
     <img width="75%" alt="Манекен. Стоїть." title="Манекен. Стоїть." src="assets/images/examples/dummy.png">
     <img width="75%" alt="ЛІНИВА СРАКА!!!" title="ЛІНИВА СРАКА!!!" src="assets/images/examples/lazyass.gif">
     <img width="75%" alt="Важлива річ" title="Важлива річ" src="assets/images/examples/importantthing.png">
-    <img width="75%" alt="Затишно" title="Затишно" src="assets/images/examples/snowdin.gif">
-	
+    <img width="75%" alt="Затишно" title="Затишно" src="assets/images/examples/snowdin.gif">	
 	<img width="75%" alt="Я теж приятелю." title="Я теж приятелю." src="assets/images/examples/bench.png">
     <img width="75%" alt="Сподіваюся, мені ніхто не завадить його забрати." title="Сподіваюся, мені ніхто не завадить його забрати." src="assets/images/examples/legend.png">
     <img width="75%" alt="Вітаємо у Жаркраї!" title="Вітаємо у Жаркраї!" src="assets/images/examples/welcome.png">
