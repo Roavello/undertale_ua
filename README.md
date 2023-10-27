@@ -13,8 +13,8 @@
     <img width="75%" alt="Манекен. Стоїть." title="Манекен. Стоїть." src="assets/images/examples/dummy.png">
     <img width="75%" alt="ЛІНИВА СРАКА!!!" title="ЛІНИВА СРАКА!!!" src="assets/images/examples/lazyass.gif">
     <img width="75%" alt="Важлива річ" title="Важлива річ" src="assets/images/examples/importantthing.png">
-    <img width="75%" alt="Затишно" title="Затишно" src="assets/images/examples/snowdin.gif">	
-	<img width="75%" alt="Я теж приятелю." title="Я теж приятелю." src="assets/images/examples/bench.png">
+    <img width="75%" alt="Затишно" title="Затишно" src="assets/images/examples/snowdin.gif">    
+    <img width="75%" alt="Я теж приятелю." title="Я теж приятелю." src="assets/images/examples/bench.png">
     <img width="75%" alt="Сподіваюся, мені ніхто не завадить його забрати." title="Сподіваюся, мені ніхто не завадить його забрати." src="assets/images/examples/legend.png">
     <img width="75%" alt="Вітаємо у Жаркраї!" title="Вітаємо у Жаркраї!" src="assets/images/examples/welcome.gif">
     <img width="75%" alt="Звісно хочу." title="Звісно хочу." src="assets/images/examples/hotanimals.png">
@@ -83,19 +83,25 @@
 
 
 <h1>Новини та оголошення</h1>
-<h4>07-09-2023</h4>
-Що ж... Тримати активним сторінку, схоже, не в моєму стилі xd
+<h4>10-27-2023</h4>
+Ой, ну... Цей во... ЧАС НОВИН.
+
+- Наша команда тепер(а точніше з серпня) має на руках офіційну книгу з історією створення японської локалізації гри, яка містить купу коментарів від розробника гри, а це:
+
+        - Пояснення важливої термінології гри<br>
+        - Приклади різних відсилань<br>
+        - Приклади і пояснення жартів, каламбурів і гри слів<br>
+        - І т.д.<br>
+
+- Раніше непомічені каламбури були адаптовані.
+
+- Було повністю перекладено Водоспаддя.
+
+- Почато активний переклад Жаркраю.
+
+Робота йде не так активно, так як у багатьох членів команди навчання/робота.
 <br>
-Хай там як, настав ЧАС НОВИН.
-
-- До команди долучилося кілька нових людей, тому довелося трохи налагоджувати внутрішній лад нашої роботи для подальшого перекладу.
-
-- Наразі триває переклад одночасно двох локацій гри: Водоспаддя і Жаркрай.(Ще трохи переклали ворогів ядра, але то поки чернові варіанти.)
-
-- Нарешті оновив шрифт Папайруса, бо минулий був звичайним placeholder'ом і разом з Yanchukcha оновив шрифт для тексту в хмарках.
-
-  
-Новин, звісно, як кіт наплакав, але маємо що маємо.<br><br>Слава Україні.
+Тож над перекладом активно працюють лише +- дві людини.<br><br>До наступного блогпосту.
 <h4><p align="right">— Roavello<h4>
 <h1>Автори</h1>
 <h2>Перекладацька команда «Pereclaw»</h2>
@@ -103,25 +109,31 @@
         <a href="https://discord.gg/uBMDfeMDJ3"><img alt="Discord" src="https://img.shields.io/discord/975491034823917658?label=Discord&logo=discord&style=social"></a>
         <a href="https://www.youtube.com/@pereclaw"><img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCNG4f8zRUFxw1JvtQV8oh_w?label=Pereclaw&style=social"></a>
         <a href="https://t.me/pereclawteam"><img alt="Telegram" src="https://img.shields.io/static/v1?link=https://t.me/pereclawteam&label=Pereclaw&style=social&logo=telegram&message=локалізація ігор"></a>
-<h3>Перекладачі</h3>
+<h3>Основні перекладачі</h3>
 <ol>
     <li type="disc"><a href="https://github.com/Roavello">Roavello</a><br>
     <li type="disc"><a href="https://github.com/DanielleTlumach">DanielleTlumach</a><br>
+    
+</ol>
+<h3>Інші перекладачі</h3>
+<ol>
     <li type="disc"><a href="https://github.com/yanchukcha">yanchukcha</a><br>
     <li type="disc"><a href="https://discord.com/users/1004070402840084590">spaceuk</a><br>
     <li type="disc"><a href="https://discord.com/users/246731296435470337">Sandwick</a><br>
-	<li type="disc"><a href="https://discord.com/users/509078768288137236">Chiromy</a><br>
-	<li type="disc"><a href="https://discord.com/users/493110908424421377">BoneKiller</a><br>
-	<li type="disc"><a href="https://discord.com/users/575018649329467412">Rozner</a><br>
+    <li type="disc"><a href="https://discord.com/users/509078768288137236">Chiromy</a><br>
+    <li type="disc"><a href="https://discord.com/users/493110908424421377">BoneKiller</a><br>
+    <li type="disc"><a href="https://discord.com/users/575018649329467412">Rozner</a><br>
 </ol>
 <h3>Редактори</h3>
 <ol>
     <li type="disc"><a href="https://discord.com/users/1003288266587521094">Chlorine</a><br>
-    <li type="disc"><a href="https://github.com/marklangerhacker">Mark L.</a><br>
-    <li type="disc"><a href="https://discord.com/users/1004070402840084590">spaceuk</a><br>
     <li type="disc"><a href="https://github.com/DanielleTlumach">DanielleTlumach</a><br>
     <li type="disc"><a href="https://github.com/yanchukcha">yanchukcha</a><br>
-	<li type="disc"><a href="https://discord.com/users/575018649329467412">Rozner</a><br>
+    <li type="disc"><a href="https://discord.com/users/575018649329467412">Rozner</a><br>
+</ol>
+<h3>Допомога з портом на MacOs</h3>
+<ol>
+    <li type="disc"><a href="https://github.com/marklangerhacker">Mark L.</a><br>
 </ol>
 <h3>Організатор</h3>
 <ol>
@@ -129,7 +141,7 @@
 </ol>
 <h1>Куточок запитань(ЧаПи)</h1>
 
-<img alt="Куточок запитань(ЧаПи)" title="Куточок запитань(ЧаПи)" src="assets/images/faq/CHaPy.gif">
+<img alt="Куточок запитань(ЧаПи)" title="Куточок запитань(ЧаПи)((Треба перемалювати, хе-хе))" src="assets/images/faq/CHaPy.gif">
 
 <h3>П: Для якої версії гри цей переклад?</h3>
 
@@ -141,7 +153,7 @@
 
 <h3>П: Скільки вже встигли перекласти?</h3>
 
-В: _Ігровий текст_ - 49%
+В: _Ігровий текст_ - 62%
 <br>
     _Озвучення_ - Озвучено одну з двох реплік.
 <br>
@@ -149,7 +161,7 @@
 <br>
     =====================
 <br>
-    Роботи попереду ще багато.
+    Робота потроху триває.
 <br>
     Якщо знайдете якісь помилки, обов'язково опишіть їх у вкладці <a href="https://github.com/Roavello/undertale_ua/issues">"Issues"</a>
 
