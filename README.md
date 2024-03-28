@@ -8,7 +8,6 @@
     <img width="75%" alt="Логотип" title="Логотип" src="assets/images/examples/title.png">
     <img width="75%" alt="Заставка" title="Заставка" src="assets/images/examples/intro.png">
     <img width="75%" alt="Набір ім'я" title="Набір ім'я" src="assets/images/examples/naming.gif">
-    <img width="75%" alt="Який грозний" title="Який грозний" src="assets/images/examples/die.gif">
     <img width="75%" alt="Збереження" title="Збереження" src="assets/images/examples/save.png">
     <img width="75%" alt="Манекен. Стоїть." title="Манекен. Стоїть." src="assets/images/examples/dummy.png">
     <img width="75%" alt="ЛІНИВА СРАКА!!!" title="ЛІНИВА СРАКА!!!" src="assets/images/examples/lazyass.gif">
@@ -17,7 +16,7 @@
     <img width="75%" alt="Я теж приятелю." title="Я теж приятелю." src="assets/images/examples/bench.png">
     <img width="75%" alt="Сподіваюся, мені ніхто не завадить його забрати." title="Сподіваюся, мені ніхто не завадить його забрати." src="assets/images/examples/legend.png">
     <img width="75%" alt="Вітаємо у Жаркраї!" title="Вітаємо у Жаркраї!" src="assets/images/examples/welcome.gif">
-    <img width="75%" alt="Звісно хочу." title="Звісно хочу." src="assets/images/examples/hotanimals.png">
+    <img width="75%" alt="Звісно хочу." title="Звісно хочу." src="assets/images/examples/hotanimals.gif">
 </details>
 
 <h1>Особливості перекладу</h1>
@@ -83,25 +82,20 @@
 
 
 <h1>Новини та оголошення</h1>
-<h4>10-27-2023</h4>
-Ой, ну... Цей во... ЧАС НОВИН.
-
-- Наша команда тепер(а точніше з серпня) має на руках офіційну книгу з історією створення японської локалізації гри, яка містить купу коментарів від розробника гри, а це:
-
-        - Пояснення важливої термінології гри<br>
-        - Приклади різних відсилань<br>
-        - Приклади і пояснення жартів, каламбурів і гри слів<br>
-        - І т.д.<br>
-
-- Раніше непомічені каламбури були адаптовані.
-
-- Було повністю перекладено Водоспаддя.
-
-- Почато активний переклад Жаркраю.
-
-Робота йде не так активно, так як у багатьох членів команди навчання/робота.
+<h4>03-28-2024</h4>
+Переклад живий як ніколи раніше!
 <br>
-Тож над перекладом активно працюють лише +- дві людини.<br><br>До наступного блогпосту.
+Чому? Бо настав ЧАС НОВИН!
+
+- Почну з найголовнішого. Текстовий переклад гри ЗАВЕРШЕНО! Але радіти зарано, це все треба чистити від різноманітних помилок...
+
+- Перекладено всі текстури.
+
+- Переклад першої локації повністю завершено, і ви можете ним насолодитися в UnderTale Demo, яку вже можна завантажити!
+
+На цьому поки все. Я постараюся публікувати новини частіше, ніж раз на майже півроку, але нічого не обіцяю.
+<br>
+<br>До наступного блогпосту.
 <h4><p align="right">— Roavello<h4>
 <h1>Автори</h1>
 <h2>Перекладацька команда «Pereclaw»</h2>
@@ -109,35 +103,31 @@
         <a href="https://discord.gg/uBMDfeMDJ3"><img alt="Discord" src="https://img.shields.io/discord/975491034823917658?label=Discord&logo=discord&style=social"></a>
         <a href="https://www.youtube.com/@pereclaw"><img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCNG4f8zRUFxw1JvtQV8oh_w?label=Pereclaw&style=social"></a>
         <a href="https://t.me/pereclawteam"><img alt="Telegram" src="https://img.shields.io/static/v1?link=https://t.me/pereclawteam&label=Pereclaw&style=social&logo=telegram&message=локалізація ігор"></a>
-<h3>Основні перекладачі</h3>
+<h3>Перекладачі</h3>
 <ol>
     <li type="disc"><a href="https://github.com/Roavello">Roavello</a><br>
     <li type="disc"><a href="https://github.com/DanielleTlumach">DanielleTlumach</a><br>
-    
-</ol>
-<h3>Інші перекладачі</h3>
-<ol>
     <li type="disc"><a href="https://github.com/yanchukcha">yanchukcha</a><br>
-    <li type="disc"><a href="https://discord.com/users/1004070402840084590">spaceuk</a><br>
+    <li type="disc"><a href="https://discord.com/users/1004070402840084590">x1ki_</a><br>
     <li type="disc"><a href="https://discord.com/users/246731296435470337">Sandwick</a><br>
     <li type="disc"><a href="https://discord.com/users/509078768288137236">Chiromy</a><br>
     <li type="disc"><a href="https://discord.com/users/493110908424421377">BoneKiller</a><br>
-    <li type="disc"><a href="https://discord.com/users/575018649329467412">Rozner</a><br>
+    <li type="disc"><a href="https://discord.com/users/529280743705149452">pita_guy</a><br>
 </ol>
 <h3>Редактори</h3>
 <ol>
     <li type="disc"><a href="https://discord.com/users/1003288266587521094">Chlorine</a><br>
     <li type="disc"><a href="https://github.com/DanielleTlumach">DanielleTlumach</a><br>
     <li type="disc"><a href="https://github.com/yanchukcha">yanchukcha</a><br>
-    <li type="disc"><a href="https://discord.com/users/575018649329467412">Rozner</a><br>
-</ol>
-<h3>Допомога з портом на MacOs</h3>
-<ol>
-    <li type="disc"><a href="https://github.com/marklangerhacker">Mark L.</a><br>
+    <li type="disc"><a href="https://discord.com/users/529280743705149452">pita_guy</a><br>
 </ol>
 <h3>Організатор</h3>
 <ol>
     <li type="disc"><a href="https://github.com/Roavello">Roavello</a><br>
+</ol>
+<h3>Допомога з портом на MacOs</h3>
+<ol>
+    <li type="disc"><a href="https://github.com/marklangerhacker">Mark L.</a><br>
 </ol>
 <h1>Куточок запитань(ЧаПи)</h1>
 
@@ -149,25 +139,26 @@
     
 <h3>П: Як завантажити переклад?</h3>
 
-В: Ніяк. Переклад ще надто сирий для публічного доступу.
+В: Ніяк. Хоч гра повністю перекладена, вона потребує виправленя всіх помилок, однак є ДЕМО, яку вже можна завантажити.
 
 <h3>П: Скільки вже встигли перекласти?</h3>
 
-В: _Ігровий текст_ - 62%
+В: _Ігровий текст_ - 100%
+<br>
+    _Текстури_ - 100%.
 <br>
     _Озвучення_ - Озвучено одну з двох реплік.
 <br>
-    _Полірування_ - 0%
+    _Редактура_ - 15%
 <br>
     =====================
 <br>
-    Робота потроху триває.
+    Робота потроху кипить.
 <br>
-    Якщо знайдете якісь помилки, обов'язково опишіть їх у вкладці <a href="https://github.com/Roavello/undertale_ua/issues">"Issues"</a>
 
 <h3>П: Коли вийде переклад?</h3>
 
-В: Коли буде готовий.
+В: Скоро.
 
 <h2><img alt="Га? Вже?" title="Га? Вже?" src="assets/images/faq/ChaPyEND.png"></h2>
 
