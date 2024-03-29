@@ -98,7 +98,7 @@
 <br>До наступного блогпосту.
 <h4><p align="right">— Roavello<h4>
 <h1>Автори</h1>
-<h2>Перекладацька команда «Pereclaw»</h2>
+<h2>Перекладацька команда “Pereclaw”</h2>
     <p>
         <a href="https://discord.gg/uBMDfeMDJ3"><img alt="Discord" src="https://img.shields.io/discord/975491034823917658?label=Discord&logo=discord&style=social"></a>
         <a href="https://www.youtube.com/@pereclaw"><img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCNG4f8zRUFxw1JvtQV8oh_w?label=Pereclaw&style=social"></a>
@@ -120,6 +120,11 @@
     <li type="disc"><a href="https://github.com/DanielleTlumach">DanielleTlumach</a><br>
     <li type="disc"><a href="https://github.com/yanchukcha">yanchukcha</a><br>
     <li type="disc"><a href="https://discord.com/users/529280743705149452">pita_guy</a><br>
+</ol>
+<h3>Озвучення</h3>
+<ol>
+    <li type="disc">Квітик - <a href="https://discord.com/users/529280743705149452">pita_guy<br>
+    <li type="disc">Меттатон - (Спойлери)<br>
 </ol>
 <h3>Організатор</h3>
 <ol>
