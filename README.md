@@ -107,7 +107,7 @@
 
 Отже, редактура завершена на **90%**!<br>
 Ми все ближче й ближче до релізу, аж не віриться.<br>
-Однак... Ще є речі, які потребують нашої уваги
+Однак... Ще є речі, які потребують нашої уваги:
 
 Наразі ми працюємо над останніми локаціями гри та її кінцями. (Просто нагадаю, що загалом у грі трохи більше 30ти можливих закінчень)<br>
 Руки в нас і досі обмежені, тому якщо ви маєте палке бажання допомогти нашій команді та хороші знання української мови – ласкаво просимо у приватні повідомлення <a href="https://discord.com/users/529280743705149452">pita_guy</a>.
@@ -121,7 +121,7 @@
 <h4><p align="right">— Andrew "Roavello" Camomile<h4>
 
 # Автори
-### Над перекладом працює перекладацька команда “Pereclaw”
+### Над українською локалізацією працювала спілка “Pereclaw”
 
 <h3></h3>
 <p>
@@ -130,9 +130,13 @@
 <a href="https://t.me/pereclawteam"><img alt="Telegram" src="https://img.shields.io/static/v1?link=https://t.me/pereclawteam&label=Pereclaw&style=social&logo=telegram&message=локалізація ігор"></a>
 <details>
 <summary>Усі, хто працює над перекладом:</summary>
+<h3>Організатор</h3>
+<ol>
+    <li type="disc"><a href="https://github.com/Roavello">Andrew "Roavello" Camomile</a><br>
+</ol>
 <h3>Перекладачі</h3>
 <ol>
-    <li type="disc"><a href="https://github.com/Roavello">Roavello</a><br>
+    <li type="disc"><a href="https://github.com/Roavello">Andrew "Roavello" Camomile</a><br>
     <li type="disc"><a href="https://github.com/DanielleTlumach">DanielleTlumach</a><br>
     <li type="disc"><a href="https://github.com/yanchukcha">yanchukcha</a><br>
     <li type="disc"><a href="https://discord.com/users/1004070402840084590">x1ki_</a><br>
@@ -154,10 +158,6 @@
 <ol>
     <li type="disc">Квітик - <a href="https://discord.com/users/565975326451171363">pita_guy</a><br>
     <li type="disc">Меттатон - (Спойлери)<br>
-</ol>
-<h3>Організатор</h3>
-<ol>
-    <li type="disc"><a href="https://github.com/Roavello">Roavello</a><br>
 </ol>
 <h3>Особлива подяка</h3>
 <ol>
@@ -194,6 +194,14 @@
 <br>
     Робота потроху кипить.
 <br>
+
+### П: Із якої мови робимо переклад?
+
+В: Із мови оригіналу, себто англійської, з оглядом на офіційну японську локалізацію.
+
+### У ДЕМО працюють контролери?
+
+В: Ні, однак під нього можна налаштувати введення свого контролера у Steam, попередньо додавши застосунок демоверсії у свою бібліотеку ігор, або ж завантажити та налаштувати програму JoyToKey.
 
 ### П: Коли вийде переклад?
 
