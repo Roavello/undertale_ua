@@ -130,7 +130,7 @@ P.S. Повноцінно вони працюють лише на Android (До�
 <a href="https://www.youtube.com/@pereclaw"><img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCNG4f8zRUFxw1JvtQV8oh_w?label=Pereclaw&style=social"></a>
 <a href="https://t.me/pereclawteam"><img alt="Telegram" src="https://img.shields.io/static/v1?link=https://t.me/pereclawteam&label=Pereclaw&style=social&logo=telegram&message=локалізація ігор"></a>
 <details>
-<summary>Усі, хто працює над перекладом:</summary>
+<summary>Усі, хто працювали над перекладом:</summary>
 <h3>Організатор</h3>
 <ol>
     <li type="disc"><a href="https://github.com/Roavello">Andrew "Roavello" Camomile</a><br>
